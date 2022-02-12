@@ -31,6 +31,8 @@ print('Product of two arrays is:', product)
 ```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94165326/153708884-453bcdff-9b8d-479c-ae18-24d126b9413a.png)
+
 
 ## RESULT:
 Thus the program is written to perform multiplying-two-matrix using python programming.
